@@ -3,13 +3,7 @@
 Curated list of links to useful resources for the Monero Cryptocurrency.
 
 
-*Thank you to https://github.com/jklepatch for the making the [original version](https://github.com/jklepatch/awesome-monero) which was used as a starting point.*
 
-### **Curated by Crypt0-Bear**
-
-**xmr**:8BDNggwFJondckJXN2ZSnhVw8SkHqN9PAMS6CAvRnyGrjPju3fcQ6rG4uwuPcLyMeHGgLP7dJvwtQj94i7ijU8d9UK6nqzQ
-
-**Twitter**:https://twitter.com/Crypt0_Bear
 
 
 ## List Of Content
@@ -40,32 +34,32 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
     - [Daemon RPC](https://web.getmonero.org/resources/developer-guides/daemon-rpc.html)- RPC calls for the daemon. Including input, outputs and examples. In English.
     - [Wallet RPC](https://web.getmonero.org/resources/developer-guides/wallet-rpc.html)- monero-wallet-rpc calls. Including input, outputs and examples. In English.
 - External Resources
-    -[MoneroDocs.org](https://monerodocs.org/) - Comprehensive resource which aims to organize the technical knowledge about Monero. Some sections might be outdated.
-    -[MoneroExamples](https://github.com/moneroexamples) - Rich list of examples and docs related to Monero development.
+    - [MoneroDocs.org](https://monerodocs.org/) - Comprehensive resource which aims to organize the technical knowledge about Monero. Some sections might be outdated.
+    - [MoneroExamples](https://github.com/moneroexamples) - Rich list of examples and docs related to Monero development.
     -[Monero Ecosystem Project](https://github.com/monero-ecosystem)- Community of Monero developers. Contains libraries and resources and guides of some Monero Workgroups, like the Localization Workgroup and the Outreach Workgroup.
-    -[Monero StackExchange](https://monero.stackexchange.com/) - One of the most complete resources for both users and developers.
+    - [Monero StackExchange](https://monero.stackexchange.com/) - One of the most complete resources for both users and developers.
 - Libraries and Helpers
     -Node.js
-        -[ monero-javascript (Monero Ecosystem)](https://github.com/monero-ecosystem/monero-javascript)- A Node.js library for using Monero.
-        -[monero-nodejs](https://github.com/PsychicCat/monero-nodejs)- Wallet manager for interacting with monero-wallet-rpc.
+        - [ monero-javascript (Monero Ecosystem)](https://github.com/monero-ecosystem/monero-javascript)- A Node.js library for using Monero.
+        - [monero-nodejs](https://github.com/PsychicCat/monero-nodejs)- Wallet manager for interacting with monero-wallet-rpc.
     -PHP
-        -[monerophp](https://github.com/monero-integrations/monerophp)- A Monero library written in PHP by the Monero Integrations team.
-        -[monerowp](https://github.com/monero-integrations/monerowp)- Monero WooCommerce Plugin for Wordpress.
+        - [monerophp](https://github.com/monero-integrations/monerophp)- A Monero library written in PHP by the Monero Integrations team.
+        - [monerowp](https://github.com/monero-integrations/monerowp)- Monero WooCommerce Plugin for Wordpress.
     -Python
-        -[monero-python](https://github.com/monero-ecosystem/monero-python)- A comprehensive Python module for handling Monero cryptocurrency.
-        -[moneriote-python](https://github.com/monero-ecosystem/moneriote-python)Python scripts to maintain Monero opennodes DNS records.
+        - [monero-python](https://github.com/monero-ecosystem/monero-python)- A comprehensive Python module for handling Monero cryptocurrency.
+        - [moneriote-python](https://github.com/monero-ecosystem/moneriote-python)Python scripts to maintain Monero opennodes DNS records.
     -Java
-        -[monerorpc](https://github.com/00-matt/monerorpc)-A Java interface for Monero wallet and daemon RPC.
-        -[monero-java](https://github.com/monero-ecosystem/monero-java)- A Java library for using Monero.
+        - [monerorpc](https://github.com/00-matt/monerorpc)-A Java interface for Monero wallet and daemon RPC.
+        - [monero-java](https://github.com/monero-ecosystem/monero-java)- A Java library for using Monero.
     -C++
-        -[monero-cpp](https://github.com/monero-ecosystem/monero-cpp)-A C++ library for using Monero.
+        - [monero-cpp](https://github.com/monero-ecosystem/monero-cpp)-A C++ library for using Monero.
     -Golang
-        -[go-monero-rpc-client](https://github.com/monero-ecosystem/go-monero-rpc-client)-A Go client for the Monero wallet and daemon RPC
-        -[vanity-monero](https://github.com/monero-ecosystem/vanity-monero)- Generate vanity address for CryptoNote currency (Monero etc.).
+        - [go-monero-rpc-client](https://github.com/monero-ecosystem/go-monero-rpc-client)-A Go client for the Monero wallet and daemon RPC
+        - [vanity-monero](https://github.com/monero-ecosystem/vanity-monero)- Generate vanity address for CryptoNote currency (Monero etc.).
     -Rust
-        -monero-rs](https://github.com/monero-rs/monero-rs)-Library with support for (de)serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
+        - [monero-rs](https://github.com/monero-rs/monero-rs)-Library with support for (de)serialization on block data structures and key/address generation and scanning related to Monero cryptocurrency.
     -C#
-        -[csharp-monero-rpc-client](https://github.com/monero-ecosystem/csharp-monero-rpc-client)- A wallet and daemon client to interface with Monero's JSON-RPC API, built on .netstandard2.1
+        - [csharp-monero-rpc-client](https://github.com/monero-ecosystem/csharp-monero-rpc-client)- A wallet and daemon client to interface with Monero's JSON-RPC API, built on .netstandard2.1
 
 ## Technical Documentation
 - [RPC documentation](https://getmonero.org/resources/developer-guides/daemon-rpc.html) - RPC documentation of the Monero daemon
@@ -151,3 +145,12 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
     - [Kovri](https://github.com/monero-project/kovri) - A secure, private, untraceable C++ implementation of the I2P anonymous network
     - [OpenAlias](https://openalias.org) - A DNS-like service to make Monero Wallet more user-friendly
 
+
+
+*Thank you to https://github.com/jklepatch for the making the [original version](https://github.com/jklepatch/awesome-monero) which was used as a starting point.*
+
+### **Curated by Crypt0-Bear**
+
+**xmr**:8BDNggwFJondckJXN2ZSnhVw8SkHqN9PAMS6CAvRnyGrjPju3fcQ6rG4uwuPcLyMeHGgLP7dJvwtQj94i7ijU8d9UK6nqzQ
+
+**Twitter**:https://twitter.com/Crypt0_Bear
