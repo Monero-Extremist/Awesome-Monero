@@ -1,5 +1,5 @@
 # Awesome-Monero
-Curated list of links to useful resources for the Monero Cryptocurrency  
+Curated list of links to useful resources for the Monero Cryptocurrency
 Thank you to https://github.com/jklepatch for the original inspiration and original version
 ## List Of Content
 - [Getting Started](#getting-started)
@@ -44,9 +44,7 @@ Thank you to https://github.com/jklepatch for the original inspiration and origi
     - #monero-markets  (irc://chat.freenode.net/#monero-markets)
     - #monero-pools (irc://chat.freenode.net/#monero-pools)
     - #monero-otc (irc://chat.freenode.net/#monero-orc)
-- [Telegram Group](https://telegram.me/bitmonero)
-- [Facebook](https://www.facebook.com/monerocurrency)
-- [Twitter](https://twitter.com/monerocurrency)
+
 
 ## Wallets
 ### Desktop Wallets
