@@ -39,7 +39,7 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
     -[Monero Ecosystem Project](https://github.com/monero-ecosystem)- Community of Monero developers. Contains libraries and resources and guides of some Monero Workgroups, like the Localization Workgroup and the Outreach Workgroup.
     - [Monero StackExchange](https://monero.stackexchange.com/) - One of the most complete resources for both users and developers.
 - Libraries and Helpers
-    -Node.js
+    - Node.js
         - [ monero-javascript (Monero Ecosystem)](https://github.com/monero-ecosystem/monero-javascript)- A Node.js library for using Monero.
         - [monero-nodejs](https://github.com/PsychicCat/monero-nodejs)- Wallet manager for interacting with monero-wallet-rpc.
     -PHP
