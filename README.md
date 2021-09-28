@@ -1,6 +1,6 @@
 # Awesome-Monero
-Curated list of links to useful resources for the Monero Cryptocurrency   
-Thank you to https://github.com/jklepatch for the original inspiration and original version 
+Curated list of links to useful resources for the Monero Cryptocurrency  
+Thank you to https://github.com/jklepatch for the original inspiration and original version
 ## List Of Content
 - [Getting Started](#getting-started)
 - [Official Websites](#official-websites)
