@@ -12,7 +12,7 @@ Thank you to https://github.com/jklepatch for the original inspiration and origi
 
 ## Getting Started
 - [What is Monero?](https://getmonero.org/get-started/what-is-monero) - From getmonero.org, the official website
-- [/XMR/ Monero General Info-Dump] (https://moneroinfodump.neocities.org/) - Page with information for beginers from the 4chan biz monero thread. 
+- [/XMR/ Monero General Info-Dump](https://moneroinfodump.neocities.org/) - Page with information for beginers from the 4chan biz monero thread. 
 - [Moneropedia](https://getmonero.org/resources/moneropedia) - Alphabetically sorted list of Monero terms, and their definitions
 - [Monero.how](https://www.monero.how) - Tutorials for Monero
 - [Moneroworld.com](https://moneroworld.com) - Useful links & resources for Monero
