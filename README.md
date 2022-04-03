@@ -40,7 +40,7 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
     - [Monero StackExchange](https://monero.stackexchange.com/) - One of the most complete resources for both users and developers.
 - Libraries and Helpers
     - Node.js
-        - [ monero-javascript (Monero Ecosystem)](https://github.com/monero-ecosystem/monero-javascript)- A Node.js library for using Monero.
+        - [monero-javascript (Monero Ecosystem)](https://github.com/monero-ecosystem/monero-javascript)- A Node.js library for using Monero.
         - [monero-nodejs](https://github.com/PsychicCat/monero-nodejs)- Wallet manager for interacting with monero-wallet-rpc.
     -PHP
         - [monerophp](https://github.com/monero-integrations/monerophp)- A Monero library written in PHP by the Monero Integrations team.
@@ -103,11 +103,11 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 
 ### Mobile Wallets
 
-| Wallet               |Device                |Description                                                                                                      |Download Link                                                                                                                                                                                                                                                                                |
-|-----------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Cake Wallet|  Android/Ios| Easy to use mobile wallet with bitcoin,litecoin and monero support. Has ability to exchange coins within app. https://cakewallet.io/|                                                                                                                   [googlePlay](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) / [App Store](https://itunes.apple.com/app/cake-wallet-for-xmr-monero/id1334702542)|
-| Moneroujo |             |                                                                                                                                     |                                                                                                                                                                                                                                                                                             |
-|           |             |                                                                                                                                     |                                                                                                                                                                                                                                                                                             |
+| Wallet    |Device       |Description                                              |Download Link                                         |
+|-----------|-------------|---------------------------------------------------------|------------------------------------------------------|
+|Cake Wallet|  Android/Ios| Easy to use mobile wallet with bitcoin,litecoin and monero support. Has ability to exchange coins within app. https://cakewallet.io/ | [googlePlay](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) / [App Store](https://itunes.apple.com/app/cake-wallet-for-xmr-monero/id1334702542) |
+| Moneroujo | Android     | Another Android Monero Wallet for Monero. https://www.monerujo.io/ | [Custom F-Droid repo](https://f-droid.monerujo.io/) / [google Play](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet) | 
+|           |             |                                                         |                                                      |
 
 
 
