@@ -113,7 +113,8 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 
 ## Mining
 - Mining Pools
-    - [Moneropools.com](http://moneropools.com) - List of Monero pools
+    - [Monero Pool List](https://pools.xmr.wiki/) - List of Monero pools
+    - [Another Monero Pool List](https://miningpoolstats.stream/monero) - Another list of Monero pools with visual pie graph of hash rate percentages
 - Software
     -  [XMRig](https://github.com/xmrig/xmrig)
     -  [CSminer](https://cryptonote.social/tools/csminer)
