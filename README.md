@@ -9,8 +9,10 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 ## List Of Content
 - [Getting Started](#getting-started)
 - [Official Websites](#official-websites)
+- [Wallets](#wallets)
 - [Communities](#communities)
 - [Technical Documentation](#technical-documentation)
+- [Developer Guides](#developer-guides)
 - [Mining](#mining)
 - [Buying Monero](#buying-monero)
 - [Related Projects](#related-projects)
@@ -95,7 +97,7 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 |----------------------|----------------------|---------------------------------------------------------|------------------------------------------------------|
 |  "Official" GUI / CLI| Windows, macOS, Linux|Official implementation maintained by core team.         | [getMonero.org](https://www.getmonero.org/downloads/)|
 | MyMonero             | Windows, macOS, Linux|Webbased lightweight wallet with mobile wallets available| [myMonero.com](https://mymonero.com/)                |
-|                      |                      |                                                         |                                                      |
+| Feather Wallet       | Windows, macOS, Linux|Desktop lightweight wallet                               | [featherwallet.org](https://featherwallet.org/)      |
 |                      |                      |                                                         |                                                      |
 |                      |                      |                                                         |                                                      |
 |                      |                      |                                                         |                                                      |
@@ -106,7 +108,8 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 | Wallet    |Device       |Description                                              |Download Link                                         |
 |-----------|-------------|---------------------------------------------------------|------------------------------------------------------|
 |Cake Wallet|  Android/Ios| Easy to use mobile wallet with bitcoin,litecoin and monero support. Has ability to exchange coins within app. https://cakewallet.io/ | [googlePlay](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) / [App Store](https://itunes.apple.com/app/cake-wallet-for-xmr-monero/id1334702542) |
-| Moneroujo | Android     | Another Android Monero Wallet for Monero. https://www.monerujo.io/ | [Custom F-Droid repo](https://f-droid.monerujo.io/) / [google Play](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet) | 
+| Monerujo  | Android     | Another Android Monero Wallet for Monero. https://www.monerujo.io/ | [Custom F-Droid repo](https://f-droid.monerujo.io/) / [google Play](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet) | 
+| Shruum    | Android     | A privacy oriented fork of Monerujo https://mayumi.one/ | [Custom F-Droid repo](https://mayumi.one/fdroid/repo/) |
 |           |             |                                                         |                                                      |
 
 
