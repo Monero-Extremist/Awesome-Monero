@@ -146,7 +146,7 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 
 ## Related Projects
 - Monero Projects
-    - [Kovri](https://github.com/monero-project/kovri) - A secure, private, untraceable C++ implementation of the I2P anonymous network
+    - [Kovri](https://gitlab.com/kovri-project/kovri) - A secure, private, untraceable C++ implementation of the I2P anonymous network
     - [OpenAlias](https://openalias.org) - A DNS-like service to make Monero Wallet more user-friendly
 
 
