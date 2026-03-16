@@ -133,6 +133,7 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
 - With cash
     - [Kraken](https://www.kraken.com) - US-based exchange offering the following fiat trading pairs EUR*, USD*, CAD, GBP, JPY, AUD, CHF 
     - [Local Monero](https://localmonero.co/) - p2p exchange offering person to person trades. Available f
+    - [arnoldnakamura](https://arnoldnakamura.codeberg.page) - P2P XMR↔EUR trading, Cash by Mail (EU-wide) + Face-to-Face (SW Germany). 683+ completed trades, 100% feedback (formerly chingchongfalung on LocalMonero/AgoraDesk).
 
 - With Crypto
     - [Sideshift.ai](https://sideshift.ai/) - simple Swapping 
