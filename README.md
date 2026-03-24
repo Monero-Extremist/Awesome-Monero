@@ -135,8 +135,9 @@ Curated list of links to useful resources for the Monero Cryptocurrency.
     - [Local Monero](https://localmonero.co/) - p2p exchange offering person to person trades. Available f
 
 - With Crypto
-    - [Sideshift.ai](https://sideshift.ai/) - simple Swapping 
-    - [Bisq.io](https://bisq.network/) - Decentralized P2P exchange based on Bitcoin and Tor. 
+    - [Sideshift.ai](https://sideshift.ai/) - simple Swapping
+    - [Bisq.io](https://bisq.network/) - Decentralized P2P exchange based on Bitcoin and Tor.
+    - [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange for fiat-to-XMR and crypto-to-XMR swaps. Operating since 2014.
 
 - Atomic Swaps 
 - 
